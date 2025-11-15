@@ -203,18 +203,17 @@ AC-2 / AC-6: Access Management \& Least Privilege
 SI-3: Malware \& Endpoint Detection
 
 
-
 Each risk includes:
 
-✔ Mitigation strategy
+Mitigation strategy
 
-✔ Control type
+Control type
 
-✔ NIST mapping
+NIST mapping
 
-✔ Risk owner
+Risk owner
 
-✔ Status (Planned, In Progress, Complete)
+Status (Planned, In Progress, Complete)
 
 
 
@@ -274,7 +273,7 @@ See Excel → Sheet 5: Executive Summary
 
 
 
-📈 6. Risk Heatmap
+6. Risk Heatmap
 
 
 
@@ -375,4 +374,5 @@ Security program development
 
 
 If you'd like to review or collaborate on additional GRC or cybersecurity projects, feel free to connect!
+
 
